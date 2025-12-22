@@ -66,7 +66,7 @@ END AS value_label
 ```
 
 ## Dashboard Design (Power BI)
-###**Page 1 – Product Overview**
+### **Page 1 – Product Overview**
 Purpose: High-level understanding of the product catalog
 
 Visuals Included:
@@ -75,7 +75,7 @@ Visuals Included:
 * Average Rating per Category
 * Product Details Table
 
-###**Page 2 – Pricing & Value Analysis**
+### **Page 2 – Pricing & Value Analysis**
 Purpose: Identify value-driven and premium pricing patterns
 
 Visuals Included:
