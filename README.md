@@ -65,7 +65,7 @@ CASE
 END AS value_label
 ```
 
-#Dashboard Design (Power BI)
+# Dashboard Design (Power BI)
 **Page 1 – Product Overview**
 Purpose: High-level understanding of the product catalog
 
@@ -86,7 +86,7 @@ Top 10 Highest Rated Products
 Average Price per 100g by Category
 Summary Insight Text Box
 
-#Key Insights
+# Key Insights
 Budget products dominate ~69% of the catalog, indicating a value-oriented pricing strategy.
 Fresh produce categories offer the lowest price per 100g, making them the most cost-effective.
 Premium pricing is driven by packaged, skincare, and specialty products.
